@@ -1,6 +1,4 @@
 # arquitetura-css
-curso de arquitetura da Alura. 
+curso da Alura. 
 URL do site no ar...👇👇👇👇
-
-## link 
 janysouza.github.io/site-culinaria/
